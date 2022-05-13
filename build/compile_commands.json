@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/root/webassembly/demo/wasmDemo/build/wasm",
+  "command": "/usr/sbin/clang  -I/root/webassembly/demo/wasmDemo/wasm/.. -I/root/webassembly/demo/wasmDemo/wasm/../3rdparty/include/emscripten -g -o CMakeFiles/wasm.dir/main.c.o -c /root/webassembly/demo/wasmDemo/wasm/main.c",
+  "file": "/root/webassembly/demo/wasmDemo/wasm/main.c"
+}
+]

@@ -1,0 +1,1 @@
+/usr/sbin/clang -g CMakeFiles/wasm.dir/main.c.o -o wasm 
