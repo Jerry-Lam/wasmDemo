@@ -31,12 +31,6 @@
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 3,
-				"parent" : 0
-			},
-			{
-				"command" : 1,
-				"file" : 0,
 				"line" : 4,
 				"parent" : 0
 			}
@@ -55,10 +49,6 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "/root/webassembly/demo/wasmDemo/wasm/.."
-				},
-				{
-					"backtrace" : 3,
 					"path" : "/root/webassembly/demo/wasmDemo/wasm/../3rdparty/include/emscripten"
 				}
 			],

@@ -134,6 +134,18 @@
 			"value" : "/usr/bin/cpack"
 		},
 		{
+			"name" : "CMAKE_CROSSCOMPILING_EMULATOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "No help, variable specified on the command line."
+				}
+			],
+			"type" : "UNINITIALIZED",
+			"value" : "/root/webassembly/emsdk/node/14.18.2_64bit/bin/node;--experimental-wasm-threads"
+		},
+		{
 			"name" : "CMAKE_CTEST_COMMAND",
 			"properties" : 
 			[
@@ -1100,6 +1112,18 @@
 			],
 			"type" : "FILEPATH",
 			"value" : "/usr/sbin/llvm-strip"
+		},
+		{
+			"name" : "CMAKE_TOOLCHAIN_FILE",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "No help, variable specified on the command line."
+				}
+			],
+			"type" : "UNINITIALIZED",
+			"value" : "/root/webassembly/emsdk/upstream/emscripten/cmake/Modules/Platform/Emscripten.cmake"
 		},
 		{
 			"name" : "CMAKE_UNAME",
